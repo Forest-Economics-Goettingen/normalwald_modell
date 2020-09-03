@@ -291,7 +291,7 @@ einem erntefähigen, hiebsreifen Endnutzungsbestand aus.
 
 ##### Musterlösung
 
-[06\_Deckungsbeitragsrechnung\_Normalwald\_Loesung.xlsx](./06_deckungsbeitragsrechnung_normalwald/-/blob/master/6_Deckungsbeitragsrechnung_Normalwald_Loesung.xlsx)
+[06\_Deckungsbeitragsrechnung\_Normalwald\_Loesung.xlsx](./6_Deckungsbeitragsrechnung_Normalwald_Loesung.xlsx)
 
 <h3>
 <a name="7. Literatur">7. Literatur</a>
