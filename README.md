@@ -1,7 +1,7 @@
 Deckungsbeitragsrechnung - Normalwaldmodell
 -------------------------------------------
 
-#### Kurbeschreibung des Modells
+#### Kurzbeschreibung des Modells
 
 Bei diesem Modell handelt es sich um eine Berechnung von
 Deckungsbeiträgen auf Grundlage des Normalwaldes. Dazu werden je Baumart
