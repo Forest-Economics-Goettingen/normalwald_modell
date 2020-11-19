@@ -136,7 +136,7 @@ konstant (stationärer Gleichgewichtszustand eines dynamischen Systems)
 <img src="./images/normalwald.png" width="500" height="250">
 </center>
 
-*Bildliche Darstellung eines Normalwaldes (aus SPEIDEL, 1972, S. 100)*
+*Abbildung 1: Bildliche Darstellung eines Normalwaldes (aus SPEIDEL, 1972, S. 100)*
 
 <ins>
 Formeln:
